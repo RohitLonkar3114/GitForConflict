@@ -10,6 +10,7 @@ namespace GitForConflict
     {
         static void Main(string[] args)
         {
+            int a=10;
         }
     }
 }
