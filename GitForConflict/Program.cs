@@ -9,10 +9,12 @@ namespace GitForConflict
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
+            int x=20;
             int a=10;
-            int b=a+a;
+            int b=x+a;
             Console.WriteLine(b);
+
         }
     }
 }
